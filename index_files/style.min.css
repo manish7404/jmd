@@ -11329,7 +11329,7 @@ small.form-text {
 .element-hover-img {
 	width: 100px;
 	height: 100px;
-	background-image: url("/assets/images/elements.png");
+	background-image: url("/jmd/index_files/elements.png");
 	background-repeat: no-repeat;
 	transition: all .3s
 }

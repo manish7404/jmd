@@ -618,7 +618,7 @@ var ComingSoon = /*#__PURE__*/function (_Component) {
           columnNumber: 33
         }
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
-        src: "".concat("", "/assets/images/logo.png"),
+        src: "".concat("", "/jmd/index_files/logo.png"),
         alt: "Logo",
         className: "soon-logo mx-auto",
         __self: this,
