@@ -186,7 +186,7 @@ var ComingSoon = /*#__PURE__*/function (_Component) {
       })))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "soon-bg bg-image",
         style: {
-          backgroundImage: "url(assets/images/online_shop.jpg)"
+          backgroundImage: "url(index_files/online_shop.jpg)"
         },
         __self: this,
         __source: {
