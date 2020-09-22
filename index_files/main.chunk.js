@@ -618,7 +618,7 @@ var ComingSoon = /*#__PURE__*/function (_Component) {
           columnNumber: 33
         }
       }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
-        src: "".concat("", "/jmd/index_files/logo.png"),
+        src: "".concat("", "/index_files/logo.png"),
         alt: "Logo",
         className: "soon-logo mx-auto",
         __self: this,
@@ -681,7 +681,7 @@ var ComingSoon = /*#__PURE__*/function (_Component) {
       })))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "soon-bg bg-image",
         style: {
-          backgroundImage: "url(/jmd/index_files/online_shop.jpg)"
+          backgroundImage: "url(/index_files/online_shop.jpg)"
         },
         __self: this,
         __source: {
